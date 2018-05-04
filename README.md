@@ -2,7 +2,7 @@
 Lokaverkefni í áfanganum KEST2WG05DU hjá Guðmundi og Pétri.
 
 
-<h1>Aukakröfur<h1/>
+**Aukakröfur**
 
 Fyrir Alla - \
   Prentarar, \
