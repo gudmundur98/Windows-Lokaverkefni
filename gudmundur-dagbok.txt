@@ -1,3 +1,7 @@
 17.04.18
 
 Bjó til github repo og þessa dagbók. 
+
+04.05.18
+
+Runnuðum powershell scriptuna fyrir notendur.
