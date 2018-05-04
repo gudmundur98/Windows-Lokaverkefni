@@ -4,10 +4,10 @@ Lokaverkefni í áfanganum KEST2WG05DU hjá Guðmundi og Pétri.
 
 <h1>Aukakröfur<h1/>
 
-<h4>Fyrir Alla<h4/><p> - \
+Fyrir Alla - \
   Prentarar, \
   Microsoft Office \
-  \<p/>
+  \
 Fyrir Tölvubraut - \
   Visual Studio, \
   PyCharm, \
