@@ -1,25 +1,25 @@
 # Windows-Lokaverkefni
-Lokaverkefni í áfanganum KEST2WG05DU hjá Guðmundi og Pétri.
+**Lokaverkefni í áfanganum KEST2WG05DU hjá Guðmundi og Pétri.**
 
 
 **Aukakröfur**
 
-Fyrir Alla - \
+**Fyrir Alla -** \
   Prentarar, \
   Microsoft Office \
   \
-Fyrir Tölvubraut - \
+**Fyrir Tölvubraut -** \
   Visual Studio, \
   PyCharm, \
   Sublime Text, \
   FileZilla, \
   MySQL
   \
-Ljósmyndun - \
+**Ljósmyndun -** \
   Adobe Lightroom, \
   Adobe Photoshop \
   \
-Grafísk miðlun - \
+**Grafísk miðlun -** \
   Adobe Photoshop, \
   Adobe Illustrator, \
   Adobe Lightroom, \
