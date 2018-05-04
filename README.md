@@ -7,7 +7,7 @@ Lokaverkefni í áfanganum KEST2WG05DU hjá Guðmundi og Pétri.
 <h4>Fyrir Alla<h4/><p> - \
   Prentarar, \
   Microsoft Office \
-  \<\p>
+  \<p/>
 Fyrir Tölvubraut - \
   Visual Studio, \
   PyCharm, \
