@@ -7,7 +7,7 @@ Aukakröfur
 Fyrir Alla - \
   Prentarar, \
   Microsoft Office \
-  \
+  
 
 Fyrir Tölvubraut - \
   Visual Studio, \
