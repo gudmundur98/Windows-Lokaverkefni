@@ -8,3 +8,7 @@ setti AD DS á server 7
 
 27.4.2018
 Tengdi server 8 og 7 "saman" og setti upp DHCP
+
+5.4.2018
+ég og gummi settum upp alla notendur og byrjuðum að setja upp "heima svæði" var ekki klárað en klára á morgun
+
