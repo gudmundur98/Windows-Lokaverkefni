@@ -13,7 +13,7 @@
   PyCharm, \
   Sublime Text, \
   FileZilla, \
-  MySQL
+  MySQL \
   \
 **Ljósmyndun -** \
   Adobe Lightroom, \
