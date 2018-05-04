@@ -15,11 +15,11 @@
   FileZilla, \
   MySQL \
   \
-**Ljósmyndun -** \
+**Fyrir Ljósmyndun -** \
   Adobe Lightroom, \
   Adobe Photoshop \
   \
-**Grafísk miðlun -** \
+**Fyrir Grafísk miðlun -** \
   Adobe Photoshop, \
   Adobe Illustrator, \
   Adobe Lightroom, \
