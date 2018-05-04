@@ -6,7 +6,7 @@ Aukakröfur
 
 Fyrir Alla - \
   Prentarar, \
-  Microsoft Office
+  Microsoft Office \
   \
 
 Fyrir Tölvubraut - \
