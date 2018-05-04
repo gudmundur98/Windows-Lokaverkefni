@@ -19,7 +19,7 @@
   Adobe Lightroom, \
   Adobe Photoshop \
   \
-**Fyrir Grafísk miðlun -** \
+**Fyrir Grafíska miðlun -** \
   Adobe Photoshop, \
   Adobe Illustrator, \
   Adobe Lightroom, \
