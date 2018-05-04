@@ -4,7 +4,7 @@ Lokaverkefni í áfanganum KEST2WG05DU hjá Guðmundi og Pétri.
 
 Aukakröfur
 
-Fyrir Alla - \
+<h1>Fyrir Alla<\h1> - \
   Prentarar, \
   Microsoft Office \
   \
